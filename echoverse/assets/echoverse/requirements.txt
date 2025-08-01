@@ -1,6 +1,9 @@
 streamlit
 pandas
 numpy
+torch
+torchvision
+torchaudio
 scikit-learn
 matplotlib
 requests

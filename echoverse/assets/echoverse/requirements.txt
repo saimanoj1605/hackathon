@@ -1,5 +1,6 @@
-streamlit
-transformers==4.21.0
-gtts==2.2.4
-requests
-torch --index-url https://download.pytorch.org/whl/cpu
+gradio>=4.0.0
+torch>=2.0.0
+transformers>=4.30.0
+gtts>=2.3.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99

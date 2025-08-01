@@ -1,9 +1,8 @@
 streamlit
 pandas
 numpy
-torch
-torchvision
-torchaudio
+torch==2.0.1+cpu --find-links https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.15.2+cpu --find-links https://download.pytorch.org/whl/torch_stable.html
 scikit-learn
 matplotlib
 requests
